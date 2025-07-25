@@ -151,7 +151,7 @@ int main(){
 */
 
 //CHRCK IF A NUMBER IS PRIME OR NOT 
-
+/*
 int main (){
     int n;
     cout <<  "enter number : ";
@@ -170,6 +170,21 @@ int main (){
         cout<< "prime number\n";
     } else{
         cout << "non prime number\n";
+    }
+    return 0;
+}
+*/
+
+//NESTED LOOP
+
+int main(){
+    int n =5;
+    for(int i=1; i<=n; i++){
+        int m = 9;
+        for(int j=1; i<=m; j++){
+        cout<< "*";
+    }
+    cout << endl;
     }
     return 0;
 }
