@@ -23,3 +23,26 @@ int main(){
     }
     return 0;
 }*/
+
+
+//BitWISE OPERATORS
+
+/*int main(){
+    int a = 4, b=8;
+    cout << (a & b) << endl;
+    return 0;
+}
+*/
+
+/*int main(){
+    int a = 4, b=8;
+    cout << (a | b) << endl;
+    return 0;
+}*/
+
+/*int main(){
+    int a = 4, b=8;
+    cout << (a ^ b) << endl;
+    return 0;
+}*/
+
